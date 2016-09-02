@@ -6,6 +6,7 @@ If you are not install node.js on your machine https://nodejs.org/en/download/
 ```bash
 $ git clone git://github.com/ohoterz/express-ready.git
 $ cd express-ready
+$ npm install
 $ node app.js
 ```
 Try http://localhost:8080 on your browser.
