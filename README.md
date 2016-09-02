@@ -8,7 +8,7 @@ $ git clone git://github.com/ohoterz/express-ready.git
 $ cd express-ready
 $ node app.js
 ```
-Have fun!
+Try http://localhost:8080 on your browser.
 
 It is ready to connect to MySql database and I've used JWT for secure our API.  I hope you enjoy using express-ready. 
 
