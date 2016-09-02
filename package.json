@@ -1,0 +1,22 @@
+{
+  "name": "express-ready",
+  "version": "1.0.0",
+  "description": "This is express-ready made from express.js 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kittichai Somsanitchot",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohoterz/express-ready.git"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.14.0",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "mysql": "^2.5.4"
+  }
+}
