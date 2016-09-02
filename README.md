@@ -10,7 +10,7 @@ $ node app.js
 ```
 Try http://localhost:8080 on your browser.
 
-It is ready to connect to MySql database and I've used JWT for secure our API.  I hope you enjoy using express-ready. 
+It is ready to connect to MySql database and I've used JWT to secure our API.  I hope you enjoy using express-ready. 
 
 We are welcome everybody to improve our repo.   
 Thank you.
